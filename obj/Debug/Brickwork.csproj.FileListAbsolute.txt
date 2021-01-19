@@ -1,0 +1,10 @@
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\bin\Debug\Brickwork.exe
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\bin\Debug\Brickwork.pdb
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\obj\Debug\Brickwork.csprojAssemblyReference.cache
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\obj\Debug\Brickwork.csproj.CoreCompileInputs.cache
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\obj\Debug\Brickwork.exe
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\obj\Debug\Brickwork.pdb
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\bin\Debug\Brickwork.exe.manifest
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\bin\Debug\Brickwork.application
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\obj\Debug\Brickwork.exe.manifest
+C:\Users\ddemo\source\repos\Brickwork\Brickwork\obj\Debug\Brickwork.application
